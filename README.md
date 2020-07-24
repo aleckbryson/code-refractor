@@ -1,1 +1,4 @@
 # code-refractor
+During our first homework assignment, we were challenged to use the material and subject matter learned during our first week of the bootcamp. Throughout the week, we learned the fundamental concepts for HTML and CSS and those skills were put to use during this homework assignment.
+
+The assignment overall was geared toward recognizing any flaws or uneffective code that worked but neccessary didn't display good coding practice. The main objective was practice 'leaving code cleaner than how you found it' which I emjoyed because it made me revisit everthing taught this week and apply to the assignment.
